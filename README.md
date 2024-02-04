@@ -7,3 +7,5 @@
 * 💪 В свободное время занимаюсь в тренажерном зале
 * 👨‍💻 Хочу освоить профессию и найти первую рвботу
 * 📞 Мои контакты
+## Мой стек:
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge-&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-bottle green?style=for-the-badge-&logo=Django&logoColor=black"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge-&logo=Git&logoColor=#F05032"/> <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge-&logo=SQLite&logoColor=#003B57"/> <img src="https://img.shields.io/badge/Celery-black?style=for-the-badge-&logo=Celery&logoColor=white"/>  <img src="https://img.shields.io/badge/Redis-grey?style=for-the-badge-&logo=Redis&logoColor=#DC382D"/>
