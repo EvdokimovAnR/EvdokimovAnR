@@ -12,6 +12,4 @@
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge-&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge-&logo=Django&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Django REST-green?style=for-the-badge-&logo=Django&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge-&logo=Git&logoColor=#F05032"/> <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge-&logo=SQLite&logoColor=#003B57"/> <img src="https://img.shields.io/badge/Celery-black?style=for-the-badge-&logo=Celery&logoColor=green"/>  <img src="https://img.shields.io/badge/Redis-grey?style=for-the-badge-&logo=Redis&logoColor=#DC382D"/>  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge-&logo=Postman&logoColor=black"/>
-## Статистика:
 
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=EvdokimovAnR)](https://github.com/EvdokimovAnR)
