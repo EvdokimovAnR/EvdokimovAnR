@@ -5,7 +5,7 @@
 * 💻 Изучаю backend разработку на платформе Stepic и по видеороликам на YouTube
 * 💪 В свободное время занимаюсь в тренажерном зале
 * 👨‍💻 Хочу освоить профессию и найти первую работу
-* 📞 Мои контакты: [<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>](https://t.me/@antonintg)  [<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:antonio.evdokimov04@gmail.com)
+* 📞 Мои контакты: [<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>](https://t.me/@EvdokimovAnton)  [<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:antonio.evdokimov04@gmail.com)
 
 
 ## Мой стек:
